@@ -1,0 +1,281 @@
+2021-08-02T14:12:19.742Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T14:12:19.743Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:12:23.885Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-08-02T14:27:00.621Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T14:30:28.943Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-08-02T14:37:09.484Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T14:37:09.484Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:37:14.674Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-08-02T14:37:41.819Z [31merror[39m: 	Operation `productomodels.find()` buffering timed out after 10000ms
+2021-08-02T14:38:05.325Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T14:54:28.732Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:54:53.391Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:54:53.829Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:54:54.000Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:54:54.174Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:54:54.305Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:57:10.537Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T14:57:13.309Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T14:57:13.309Z [31merror[39m: 	res.send is not a function
+2021-08-02T14:58:49.051Z [31merror[39m: 	data is not defined
+2021-08-02T15:00:24.764Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:00:24.764Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:01:52.223Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:04:08.239Z [31merror[39m: 	data is not defined
+2021-08-02T15:05:03.894Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:06:56.005Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:06:58.316Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:06:58.317Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:07:23.673Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:07:23.674Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:07:24.421Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:07:24.422Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:07:24.607Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:07:24.608Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:07:24.795Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:07:24.796Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:07:24.965Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:07:24.965Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:10:07.248Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:10:37.101Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:10:38.181Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:10:39.397Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:10:53.933Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:10:55.508Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:10:55.508Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:11:15.980Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:11:15.981Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:11:16.149Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:11:16.149Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:11:16.320Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:11:16.320Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:11:16.495Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:11:16.496Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:13:09.020Z [31merror[39m: 	MensajePersistence.normalizedDataPersistence is not a function
+2021-08-02T15:13:09.021Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:14:45.475Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:15:05.739Z [31merror[39m: 	MensajePersistence.addMsgPersistence is not a function
+2021-08-02T15:18:37.440Z [31merror[39m: 	MensajePersistence.addMsgPersistence is not a function
+2021-08-02T15:19:04.920Z [31merror[39m: 	MensajePersistence.addMsgPersistence is not a function
+2021-08-02T15:19:43.670Z [31merror[39m: 	MensajePersistence.addMsgPersistence is not a function
+2021-08-02T15:20:35.754Z [31merror[39m: 	MensajePersistence.addMsgPersistence is not a function
+2021-08-02T15:21:32.654Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:21:38.395Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:21:40.912Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:22:01.144Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:22:01.311Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:22:35.418Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:23:26.946Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:24:22.231Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:24:22.232Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:24:37.521Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:24:37.521Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:14.305Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:14.305Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:15.037Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:15.038Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:39.493Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:39.493Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:39.675Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:39.675Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:39.860Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:39.860Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:48.204Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:48.204Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:48.215Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:48.215Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:48.225Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:48.225Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:48.238Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:48.238Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:25:48.248Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:25:48.249Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:26:09.383Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:26:09.383Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:27:17.425Z [31merror[39m: 	util is not defined
+2021-08-02T15:27:17.426Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:27:52.174Z [31merror[39m: 	util is not defined
+2021-08-02T15:27:52.174Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:28:17.733Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:28:17.733Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:28:39.953Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:28:39.953Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:28:43.577Z [31merror[39m: 	util is not defined
+2021-08-02T15:28:43.578Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:28:43.585Z [31merror[39m: 	util is not defined
+2021-08-02T15:28:43.586Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:01.833Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:01.833Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:01.846Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:01.847Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:01.857Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:01.857Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:01.864Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:01.864Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:51.260Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:51.260Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:51.487Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:51.488Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:29:51.498Z [31merror[39m: 	util is not defined
+2021-08-02T15:29:51.498Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:09.418Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:09.418Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:25.613Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:25.613Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:32.542Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:32.543Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:33.197Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:33.199Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:33.389Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:33.390Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:30:33.573Z [31merror[39m: 	Cannot read property 'author' of undefined
+2021-08-02T15:30:33.574Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:31:06.623Z [31merror[39m: 	util is not defined
+2021-08-02T15:31:06.623Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:35:09.389Z [31merror[39m: 	util is not defined
+2021-08-02T15:35:09.389Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:36:00.826Z [31merror[39m: 	util is not defined
+2021-08-02T15:36:00.826Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:36:03.901Z [31merror[39m: 	util is not defined
+2021-08-02T15:36:03.902Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:36:21.642Z [31merror[39m: 	util is not defined
+2021-08-02T15:36:21.642Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:44:51.653Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:44:54.601Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:54:54.695Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T15:54:57.960Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:55:25.799Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:55:47.355Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:55:48.010Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:56:02.344Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:57:00.588Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:57:41.449Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:58:16.333Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:58:53.540Z [31merror[39m: 	res.send is not a function
+2021-08-02T15:59:08.422Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:00:08.622Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:21.754Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:27.159Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:27.518Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:27.698Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:27.848Z [31merror[39m: 	res.send is not a function
+2021-08-02T16:02:49.640Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:48:37.352Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T17:48:40.011Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:49:00.340Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:49:01.881Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T17:49:02.799Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:51:02.785Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:51:12.680Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:51:15.279Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T17:51:16.799Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:53:10.653Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:55:18.316Z [31merror[39m: 	res.send is not a function
+2021-08-02T17:55:20.688Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T17:55:22.242Z [31merror[39m: 	res.send is not a function
+2021-08-02T18:15:28.982Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T18:16:41.680Z [31merror[39m: 	res.send is not a function
+2021-08-02T18:57:25.986Z [31merror[39m: 	res.send is not a function
+2021-08-02T18:57:42.243Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T18:57:43.824Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:26:49.686Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:26:57.330Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:31:26.927Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T19:31:29.893Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:31:51.256Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:31:51.446Z [31merror[39m: 	res.send is not a function
+2021-08-02T19:32:04.453Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:06:09.555Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:06:23.176Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:06:43.686Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:06:43.873Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:06:44.040Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:06:44.203Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:07:29.494Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:07:49.380Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:07:51.454Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:11.733Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:11.915Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:12.076Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:12.246Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:12.417Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:47.746Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:47.748Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:08:48.638Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:08:49.900Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:09:24.645Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:09:46.056Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:10:06.440Z [31merror[39m: 	res.send is not a function
+2021-08-02T20:26:18.034Z [31merror[39m: 	res.status is not a function
+2021-08-02T20:35:36.194Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:35:38.237Z [31merror[39m: 	res.status is not a function
+2021-08-02T20:35:44.434Z [31merror[39m: 	res.status is not a function
+2021-08-02T20:36:24.516Z [31merror[39m: 	res.status is not a function
+2021-08-02T20:36:54.108Z [31merror[39m: 	res.status is not a function
+2021-08-02T20:40:30.220Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-02T20:41:14.248Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-05T04:41:36.712Z [31merror[39m: 	Cast to ObjectId failed for value "graphql" (type string) at path "_id" for model "ProductoModel"
+2021-08-05T04:59:28.266Z [31merror[39m: 	Cast to ObjectId failed for value "graphql" (type string) at path "_id" for model "ProductoModel"
+2021-08-07T22:55:51.603Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-07T22:56:06.620Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-07T22:58:34.184Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-07T23:04:26.584Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-07T23:06:45.867Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-08T00:10:53.895Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-08T00:16:05.109Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-08T03:52:20.674Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-15T20:16:45.519Z [31merror[39m: 	knex is not defined
+2021-08-15T20:32:13.621Z [31merror[39m: 	req is not defined
+2021-08-15T20:52:59.757Z [31merror[39m: 	req is not defined
+2021-08-15T21:02:51.472Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:03:03.338Z [31merror[39m: 	saveJson is not defined
+2021-08-15T21:04:47.396Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:06:37.968Z [31merror[39m: 	saveJson is not defined
+2021-08-15T21:15:13.779Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:15:38.587Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:17:08.253Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:17:46.102Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:18:22.069Z [31merror[39m: 	readJson is not defined
+2021-08-15T21:18:27.276Z [31merror[39m: 	saveJson is not defined
+2021-08-15T21:34:29.107Z [31merror[39m: 	Unexpected end of JSON input
+2021-08-15T21:36:33.553Z [31merror[39m: 	Unexpected end of JSON input
+2021-08-15T21:40:49.240Z [31merror[39m: 	producto is not defined
+2021-08-15T21:41:04.647Z [31merror[39m: 	producto is not defined
+2021-08-15T21:41:06.424Z [31merror[39m: 	producto is not defined
+2021-08-15T21:41:36.772Z [31merror[39m: 	producto is not defined
+2021-08-15T21:43:58.278Z [31merror[39m: 	Unexpected end of JSON input
+2021-08-15T22:00:30.860Z [31merror[39m: 	Unexpected end of JSON input
+2021-08-15T22:12:58.230Z [31merror[39m: 	prodFiltro.map is not a function
+2021-08-15T22:13:34.665Z [31merror[39m: 	prodFiltro.map is not a function
+2021-08-15T22:16:20.424Z [31merror[39m: 	res is not defined
+2021-08-15T22:18:08.012Z [31merror[39m: 	res is not defined
+2021-08-15T22:18:52.623Z [31merror[39m: 	res is not defined
+2021-08-15T22:19:21.737Z [31merror[39m: 	res is not defined
+2021-08-15T22:20:11.586Z [31merror[39m: 	res is not defined
+2021-08-15T22:20:41.471Z [31merror[39m: 	res is not defined
+2021-08-15T22:21:40.149Z [31merror[39m: 	res is not defined
+2021-08-15T22:34:58.000Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:35:08.497Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:35:12.849Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:35:29.147Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:35:32.722Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:35:35.963Z [31merror[39m: 	this.knex is not a function
+2021-08-15T22:36:31.035Z [31merror[39m: 	this.knex is not a function
+2021-08-16T00:00:16.068Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T00:03:17.355Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T00:06:00.107Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T00:06:29.449Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T00:06:43.578Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T00:06:59.975Z [31merror[39m: 	Error al iniciar servidor Error: listen EADDRINUSE: address already in use :::8080
+2021-08-16T03:50:54.912Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:53:49.930Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:54:25.191Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:54:40.468Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:55:59.451Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:56:33.102Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:57:05.943Z [31merror[39m: 	productoDto is not a function
+2021-08-16T03:57:57.660Z [31merror[39m: 	productoDto is not a function
+2021-08-17T03:08:56.870Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-17T03:42:32.546Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-17T03:45:10.121Z [31merror[39m: 	Cannot read property '0' of undefined
+2021-08-17T03:45:50.370Z [31merror[39m: 	MensajeModel is not defined
